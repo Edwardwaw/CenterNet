@@ -1,10 +1,5 @@
 # CenterNet
-This is an unofficial pytorch implementation of CenterNet in a more elegant way. some parts of code in this repo is  based on 
-
-[CenterNet-better]: https://github.com/FateScript/CenterNet-better
-
-. 
-
+This is an unofficial pytorch implementation of CenterNet in a more elegant way. some parts of code in this repo is  based on [CenterNet-better]: https://github.com/FateScript/CenterNet-better . 
 ## requirement
 ```text
 tqdm
